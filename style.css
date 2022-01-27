@@ -102,6 +102,11 @@ html, body {
 
 }
 
+.key {
+  border: 1px solid currentColor;
+  border-radius: 5px;
+  display: inline-block;
+  padding: 0.4em;}
 
 @keyframes moveRight{
     100%{transform: translateX(-2900px);}
